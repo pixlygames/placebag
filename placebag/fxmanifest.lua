@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Your Name'
+author 'Pixly Games'
 description 'Admin Placeable Bags/Items with Persistent Blips'
 version '1.0.0'
 
